@@ -1,7 +1,5 @@
-echo "# xixixi" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Hahaha636/xixixi.git
-git push -u origin main
+#xixixi
+=======
+
+My first repository on GitHub!
+I love :coffee:,:pizza:,and:dancer:.
